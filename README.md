@@ -27,9 +27,9 @@ Senior design engineer from São Paulo, bridging product design and front-end wi
 
 ---
 
-### 💊 Weekly AI pills
+### 💊 AI pills for designers
 
-- 🇧🇷 🇺🇸 [**pilulas-ia**](https://github.com/Akiiiiyama/pilulas-ia) — one post a week on LinkedIn about AI, design engineering and front-end, in Portuguese and English.
+- 🇧🇷 🇺🇸 [**pilulas-ia**](https://github.com/Akiiiiyama/pilulas-ia) — what I learn about AI, design engineering and front-end, shared as guides and posts, in Portuguese and English.
 
 ---
 
