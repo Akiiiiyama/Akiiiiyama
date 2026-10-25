@@ -1,5 +1,5 @@
 <h2>
-  Hi! I'm Isa <img src="assets/gatinho.gif" height="40" alt="Peeking cat">
+  Hi! I'm Isa <img src="assets/gatinho.gif" width="46" height="40" alt="Peeking cat">
   <a href="https://github.com/Akiiiiyama?tab=followers"><img align="right" src="https://img.shields.io/github/followers/Akiiiiyama?label=Followers&style=social" alt="Followers"></a>
   <a href="https://github.com/Akiiiiyama?tab=repositories"><img align="right" src="https://img.shields.io/github/stars/Akiiiiyama?label=Stars&style=social" alt="Stars"></a>
 </h2>
